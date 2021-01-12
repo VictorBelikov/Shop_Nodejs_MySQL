@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_DB_NAME": "",
+    "PORT": 3000
+  }
+}
